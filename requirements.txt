@@ -1,1 +1,1 @@
-# Python dependencies for the agent will be listed here.
+python-dotenv
